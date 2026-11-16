@@ -1,19 +1,17 @@
-﻿# Large binary & dataset files (exceeding GitHub file limit)
+# Recorded bags and large archives (over GitHub's file size limit)
 *.db3
 *.bag
-SDK and Driver.zip
-my_pointcloud_data*/
-Instruction_ and_Pointcloud_output.zip
+*.zip
+*.mp4
 
 # Python
 __pycache__/
 *.py[cod]
-*.class
 .venv/
-env/
 venv/
+env/
 
-# Office temp files
+# OS / Office temp files
 ~$*
 .DS_Store
 Thumbs.db
